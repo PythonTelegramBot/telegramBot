@@ -96,7 +96,7 @@ class MyError(Exception):
         self.txt = text
 
 
-tg_token = "12XCKOfP1bijo4WQArvI" #Токен
+tg_token = "" #Токен
  
 bot = telebot.TeleBot(tg_token)
 
